@@ -18,13 +18,11 @@ Other indicators used are :
 - Sales in the year 2021 and 2022
 - Customer satisfaction areas 
 
-## Dashboard Snapshot 
+## Dashboard Link and screenshot
 
-<p align="center">
-    <img src="https://github.com/Naveen-S6/HR_Dashboard_Excel/blob/main/Excel%20files/ss.png" width="400">
-</p>
+![dashboard_screenshot](https://github.com/tejas-nirvana/desiburgers_Excel_Dashboard/blob/main/desiburgers_Dashboard_SS.png)
 
-[Excel file](https://github.com/Naveen-S6/HR_Dashboard_Excel/blob/main/Excel%20files/HR_Dashboard.xlsx)
+[Excel file](https://github.com/tejas-nirvana/desiburgers_Excel_Dashboard/blob/main/desiburgers_Dashboard_Creation.xlsx)
 
 ## Insights Found
 - Highest sales were for country Argentina in the year 2022.
